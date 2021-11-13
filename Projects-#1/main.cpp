@@ -13,5 +13,7 @@ int main(){
     
     cout<<"\t ... Welcome to Venom Club ... "<<endl;
     cout<<" "<<endl;
+    cout<<"Games Currently Available: "<<endl;
+    cout<<"1. Lucky number 7"<<endl;
     return 0;
 }
